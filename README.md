@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrei Co</h1>
 <h3 align="center">EASTERN VISAYAS STATE UNIVERSITY | IT STUDENT</h3>
-<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+<img align="right" border-radius="20" alt="coding" width="300" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreixiaco&label=Profile%20views&color=0e75b6&style=flat" alt="andreixiaco" /> </p>
 
 - 🌱 I’m currently learning **Laravel, ReactJs and Django**
 
-- 📫 How to reach me **andreisabalburo@gmail.com**
+- 📫 How to reach me **andrexiaco@gmail.com**
 
 - ⚡ Fun fact **I'm sporty**
 
